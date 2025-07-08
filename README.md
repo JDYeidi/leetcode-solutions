@@ -17,6 +17,6 @@ Each solution includes:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 12     |
-| Medium     | 5      |
-| Hard       | 1      |
+| Easy       | 2      |
+| Medium     | 0      |
+| Hard       | 0      |
